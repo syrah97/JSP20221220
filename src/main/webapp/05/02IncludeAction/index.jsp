@@ -28,7 +28,7 @@
 		<jsp:param name="Img2" value="<%=lists[1] %>" />
 		<jsp:param name="Img3" value="<%=lists[2] %>" />
 		<jsp:param name="Img4" value="<%=lists[3] %>" />
-		<jsp:param name="Img5" value="<%=lists[4] %>" />
+		<jsp:param name="Img5" value="<%=lists[4] %>" /> 
 	</jsp:include>
 
   	<!-- section2 -->
